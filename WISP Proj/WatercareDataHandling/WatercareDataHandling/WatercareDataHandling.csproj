@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="4.5.2.1" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.36.1.1443" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="GoogleSecret\GoogleSecret.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

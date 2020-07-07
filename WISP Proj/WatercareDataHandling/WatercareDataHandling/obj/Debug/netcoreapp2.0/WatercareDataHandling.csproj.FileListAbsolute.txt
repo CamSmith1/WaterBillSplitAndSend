@@ -1,0 +1,11 @@
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\WatercareDataHandling.deps.json
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\WatercareDataHandling.runtimeconfig.json
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\WatercareDataHandling.runtimeconfig.dev.json
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\WatercareDataHandling.dll
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\obj\Debug\netcoreapp2.0\WatercareDataHandling.csproj.CoreCompileInputs.cache
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\obj\Debug\netcoreapp2.0\WatercareDataHandling.AssemblyInfoInputs.cache
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\obj\Debug\netcoreapp2.0\WatercareDataHandling.AssemblyInfo.cs
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\WatercareDataHandling.pdb
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\obj\Debug\netcoreapp2.0\WatercareDataHandling.dll
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\obj\Debug\netcoreapp2.0\WatercareDataHandling.pdb
+C:\Users\llama\Documents\Visual Studio 2017\Projects\WatercareDataHandling\WatercareDataHandling\bin\Debug\netcoreapp2.0\GoogleSecret\GoogleSecret.json

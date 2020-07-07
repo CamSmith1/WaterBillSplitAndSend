@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatercareDataHandling", "WatercareDataHandling\WatercareDataHandling.csproj", "{193E1E34-5C6B-42A2-BDE5-EF553DE5AA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193E1E34-5C6B-42A2-BDE5-EF553DE5AA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193E1E34-5C6B-42A2-BDE5-EF553DE5AA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193E1E34-5C6B-42A2-BDE5-EF553DE5AA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193E1E34-5C6B-42A2-BDE5-EF553DE5AA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29536B4-F945-46E0-968C-839EF62DFE8F}
+	EndGlobalSection
+EndGlobal
