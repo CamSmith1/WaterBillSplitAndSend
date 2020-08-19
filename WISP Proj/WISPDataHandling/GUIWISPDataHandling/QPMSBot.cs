@@ -32,7 +32,7 @@ namespace GUIWISPDataHandling
         public void startBot()
         {
             startBrowser();
-            login("ashleighs", "Quinovic2020!");
+            login("*******", "******");
             navigateToTransactions();
             createNewBatch();
             //Inputs all the details to create a new batch
